@@ -1,2 +1,3 @@
 # The-hello-world-of-AI
-Using the mnist fashion data set to classify different types of shoes.
+Implementing the tensorflow online course and showing examples of NN, whith jupyter notebook. 
+Your more than welcome to take a look for yourself!
